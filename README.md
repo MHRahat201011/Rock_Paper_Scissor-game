@@ -1,3 +1,3 @@
 # Rock_Paper_Scissor-game
-My first repository
-Rahat
+My first repository,
+Author-Rahat
